@@ -27,9 +27,6 @@ Offers pluggable architecture for market data, order management, risk, and strat
 ### trade_signal_lab
 AI-driven backtester and strategy research lab for forecasting market microstructure behavior using deep learning.
 
-### ztrace_utils
-CLI toolkit for diagnosing z/OS-to-distributed transaction performance, built during my work with IBM Db2 Analytics Accelerator.
-
 ---
 
 ## 🌐 Social Links
