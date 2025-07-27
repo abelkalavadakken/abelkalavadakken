@@ -34,8 +34,8 @@ CLI toolkit for diagnosing z/OS-to-distributed transaction performance, built du
 
 ## 🌐 Social Links
 
-- [LinkedIn](https://www.linkedin.com/in/abel-kalavadakken-b37b495b/)
-- 📧 abelkalavadakken [at] gmail.com
+- 🖇️ [LinkedIn](https://www.linkedin.com/in/abel-kalavadakken-b37b495b/)
+- 📧 abelkalavadakken@gmail.com
 
 ---
 
