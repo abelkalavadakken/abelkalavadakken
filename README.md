@@ -26,7 +26,6 @@ Offers pluggable architecture for market data, order management, risk, and strat
 
 ### trade_signal_lab
 AI-driven backtester and strategy research lab for forecasting market microstructure behavior using deep learning.
-
 ---
 
 ## 🌐 Social Links
@@ -38,7 +37,7 @@ AI-driven backtester and strategy research lab for forecasting market microstruc
 
 ## ⚡ Fun Facts
 
-- 🏍️ Ride vintage bikes & explore backroads while pondering system design
-- 🧠 Deeply curious about neuro-optimization and flow state hacking for engineers
+- 🏍️ Ride vintage bikes & explore backroads and hiking through mountains
+- 🧠 Deeply curious about neuro-optimization and flow state hacking
 - 📚 Obsessed with performance tuning at both the hardware and code levels
-- 🧘 Meditate like a monk, code like a trader, break systems like a red teamer
+- 🧘 Meditate like a monk, code like a trader, innvoate and build. 🔥 🚀
