@@ -5,6 +5,8 @@
 **Senior C++ Developer | Performance Systems Engineer | Financial Infrastructure**  
 Currently building ultra-low-latency systems and modular HFT infrastructure inspired by enterprise-grade trading platforms.
 
+Checkout my studio: www.dunestack.xyz
+
 ---
 
 ## 🛠️ Top Skills & Tech Stack
